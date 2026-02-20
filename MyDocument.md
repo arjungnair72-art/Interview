@@ -13,7 +13,7 @@ The goal is to build a clean, reusable data processing pipeline and extract insi
   - Total job postings
   - Top job categories
   - Salary statistics
-  - Degree requirements  : Here both in KPI 1 & 5 i temporarily disabled the degree_mapping because while executing data processing its showing error due to mismatch col name ie Mininmum Rual Requirements 
+  - Degree requirements   
   - Posting year distribution
 - Identified missing values and data quality issues
 
